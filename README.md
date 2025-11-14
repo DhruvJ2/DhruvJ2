@@ -106,20 +106,6 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=DhruvJ2&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
 
-## 🚀 Featured Projects
-
-### 100 Red Team Projects
-Comprehensive repository of offensive security projects from basic to advanced levels. Developed custom Metasploit modules and networking tools for penetration testing scenarios.
-
-### GitHub Code Scraper
-Automated security audit tool for extracting and analyzing URLs from cloned repositories. Enhanced code review processes and vulnerability detection workflows.
-
-### LocoForge
-LangGraph-powered prompt-to-query orchestrator supporting both SQL & NoSQL databases with natural language processing for database query generation.
-
-### IoT Cybersecurity Projects
-Hands-on IoT device security testing and firmware analysis. Enhanced offensive security toolkit with practical IoT penetration testing tools.
-
 ## 📫 Let's Connect!
 
 I'm always interested in collaborating on cybersecurity projects, discussing red team operations, or exploring innovative security solutions. Feel free to reach out!
